@@ -64,7 +64,7 @@
        }],
        "workList": [],
        "aboutme": {
-              "aboutme_desc": "\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。\n2. 前端经验: 参与开发过H5、JSP等传统前端项目，使用Vue脚手架搭建上线过嵌套在app端的web项目，独立搭建React+antdPro的前端架构并正式上线。\n3. 后端经验: SpringMVC、SpringBoot的maven多模块工程。熟悉SpringBoot和Mybatis的项目开发，熟悉相关中间件集成使用。了解SpringCloud微服务框架及SpringCloudAlibaba的相关组件实践和应用场景。\n4. 运维经验：具有一定运维能力，独立部署运维项目，中间件部署redis（集群）、gitlab、grafana、airflow等常用中间件部署维护，参与搭建过基于Docker+K8s的机器学习在线开发及建模分析环境。 \n5. 脚本编写：有shell、python相关脚本编写及实践经验。对于shell和python脚本有基础的运维能力。\n6. 国产化: 有项目信创改造经验，后端集成国产化Web中间件，服务器（中标麒麟、统信）及数据库（OceanBase）国产化改造经验。"
+              "aboutme_desc": "\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。\n2. 前端经验: 开发过H5、JSP配合BootStrap组件库的传统前端项目，使用Vue脚手架搭建上线过嵌套在app端、pc端的web项目，独立搭建React+antdPro的前端架构并正式上线。\n3. 后端经验: SpringMVC、SpringBoot的maven多模块工程。熟悉SpringBoot和Mybatis的项目开发，熟悉相关中间件集成使用。了解SpringCloud微服务框架及SpringCloudAlibaba的相关组件实践和应用场景。\n4. 运维经验：具有一定运维能力，独立部署运维项目，中间件部署redis（集群）、gitlab、grafana、airflow等常用中间件部署维护，参与搭建过基于Docker+K8s的机器学习在线开发及建模分析环境。 \n5. 脚本编写：有shell、python相关脚本编写及实践经验。对于shell和python脚本有基础的运维能力。\n6. 国产化: 有项目信创改造经验，后端集成国产化Web中间件，服务器（中标麒麟、统信）及数据库（OceanBase）国产化改造经验。"
        },
        "theme": {
               "color": "#2f5785",
